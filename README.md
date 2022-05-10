@@ -5,9 +5,10 @@
 
 ```
 $ python3 -m venv env
-$ pip install -r requirements.txt
-$ chmod a+x script.py
-$ ./script.py
+$ . env/bin/activate
+(env) $ pip install -r requirements.txt
+(env) $ chmod a+x script.py
+(env) $ ./script.py
 ```
 
 ## Output 
