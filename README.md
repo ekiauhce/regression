@@ -1,6 +1,12 @@
 # Regression
 Лаба по ЦТ
 
+## Download dataset 
+```
+$ curl https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip -so bank.zip
+$ unzip bank.zip -d data
+```
+
 ## Install and run
 
 ```
